@@ -1,8 +1,8 @@
 name: sv9_loading
 description: "This a package is use for show the popup loading for SV9"
 version: 0.0.1
-homepage:
-repository: 
+homepage: "https://github.com/lylayedu-afk/sv9_loading.git"
+repository: "https://github.com/lylayedu-afk/sv9_loading.git"
 
 environment:
   sdk: ^3.13.4
